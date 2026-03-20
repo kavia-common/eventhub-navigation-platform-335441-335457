@@ -1,0 +1,4 @@
+{
+    "command": "npm run lint",
+    "working_directory": "/home/kavia/workspace/code-generation/eventhub-navigation-platform-335441-335457/events_mobile_frontend"
+}
